@@ -1,0 +1,13 @@
+{
+  "name": "DixitServer",
+  "version": "0.0.0",
+  "description": "DixitServer",
+  "main": "app.js",
+  "author": {
+    "name": "Porte",
+    "email": ""
+  },
+  "dependencies": {
+    "socket.io": "^1.3.7"
+  }
+}
